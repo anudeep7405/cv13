@@ -2,8 +2,7 @@ body{
     margin: 0;
     text-align: center;
     font-family: sans-serif;
-   background:url('C:/Users/ANUDEEP/OneDrive/Desktop/stack/img/blue.png') no-repeat;
-   background-size: 300%;
+  
   }
   
   h1{
@@ -30,7 +29,7 @@ color:rgb(137, 43, 226);
   }
   
   .first{
-    background-color: rgba(0, 234, 255, 0.111);
+   background-color: blue;
     background: transparent;
     height: 500px;
   /* border-width: 13px; */
